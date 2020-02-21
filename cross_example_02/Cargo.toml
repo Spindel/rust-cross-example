@@ -1,0 +1,11 @@
+[package]
+name = "cross_example_02"
+version = "0.1.0"
+authors = ["D.S. Ljungmark <ljungmark@modio.se>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+uname = "0.1.1"
+dbus = "0.6.3"
